@@ -1,0 +1,18 @@
+.section {
+  background-color: lemonchiffon;
+}
+
+#paragraph_1 {
+  color: darkslateblue;
+  background-color: white;
+}
+
+#paragraph_2 {
+  color: darkslateblue;
+  background-color: darkorange;
+}
+
+#paragraph_3 {
+    color: white;
+    background-color: darkslateblue;
+}
