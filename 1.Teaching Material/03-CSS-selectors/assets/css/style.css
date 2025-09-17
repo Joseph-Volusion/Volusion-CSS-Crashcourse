@@ -1,0 +1,31 @@
+/* universal Selector */
+* {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+/* element selectors select all of that element type */
+body {
+  background-color: rgb(224, 211, 100);
+}
+
+section {
+  height: 200px;
+  width: 300px;
+}
+
+p {
+  font-size: 65px;
+  line-height: 200px;
+}
+
+/* class selectors select all elements with that class */
+.blue-box {
+  color: white;
+  background-color: blue;
+}
+
+/* Id Selectors select a unique id to identify an element */
+#orange-box {
+  color: blue;
+  background-color: orange;
+}
