@@ -1,0 +1,12 @@
+
+going up
+@media screen and (min-width:767px) {
+        /* And even larger */
+    }
+
+
+
+going down
+@media screen and (max-width:767px) {
+        /* And even smaller */
+    }
